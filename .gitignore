@@ -29,7 +29,7 @@ src/FisheyeUndistort
 src/bundler
 
 # Binaries we depend on
-bin/sift
+# bin/sift
 
 # misc
 list_keys.txt
